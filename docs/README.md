@@ -111,7 +111,7 @@ It’s important to have this document, due to you won’t be working alone in t
 - Level description of the environment.
 - Animation list 
 - List of attacks, description and moveset patterns
--Special player code requirements for the fight.
+- Special player code requirements for the fight.
 - List of effects and projectiles
 -List of music and FX 
 
