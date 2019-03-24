@@ -54,7 +54,7 @@ Value of Effort is the gameplay experience of that one's efforts during gameplay
 ### Goals
 Goals help directly players attention and efforts in a game.  Goal Indicator as a live bar, time to end or lives. Although it’s not a must, for example Cup-Head doesn’t use any goal indicator although the player can check the goal status through the boss phase. 
 
-![LifeBar](https://github.com/GerardClotet/Boss-Design/blob/master/docs/lifebar.jpg)
+![LifeBar](https://github.com/GerardClotet/Boss-Design/blob/master/docs/lifebar.jpg?raw=true)
 
 
 ### Varying Rule Sets
@@ -77,7 +77,7 @@ Invulnerabilities are used to imbalance the game in case it is too easy for the 
 
 Classic JRPG like Final Fantasy or Dragon Quest abuse from invulnerabilities, the game  gives the player a wide range of possibilities during fights, debuffs like burned or confusion apart from the direct damage, so the player construct his gameplay strategy around this possibilities. The 90% of boss fights the boss is immune to any ability apart from direct damage,  the player realizes that despite all the possibilities there is only one to defeat the boss. This breaks the game mechanic and frustrates the player, which sees that in fact there’s only one way to defeat the boss. This bad design affect the replayability of the game and the value of effort after each fight. 
 
-![InvulnerabilityJRPG](https://github.com/GerardClotet/Boss-Design/blob/master/docs/Invulnerability.png)
+![InvulnerabilityJRPG](https://github.com/GerardClotet/Boss-Design/blob/master/docs/Invulnerability.png?raw=true)
 
 ### Tension
 The tension is the feeling of caring about the outcome of actions or events in a game without having full control over them. The tension is generated because the player has something to loose during the fight. Like the progress achieved in the game or  the resources earned. Tension can be increased by making gameplay actions more difficult to the players, perform actions quickly (stress the player) for example quick time events or temporary abilities. Repeated exposure to the same form of events or actions decreases the Tension they cause, it is related to the pattern set of the bosses a random pattern will produce more tension than the fixed one. The tension is also related to the value of effort, as the challenge increases the reward after the fight must increase otherwise the player will feel cheated. 
@@ -91,7 +91,7 @@ Penalties are effects on the game state that are negative to players regarding t
 ### Thematic Consistency
 The boss must have a believable behavior, the key is transition. If a boss uses attacks completely unrelated to both the theme and enemies found earlier in the level, it will feel unattached (and so will the player). The boss esthetic must fit in the world that has been presented to the player, an exception of this are Easter Eggs bosses because those are presented to the player as an extra content out of the universe. The types of attacks don't necessarily have to mimic the same enemy types seen earlier in the level, but they shouldn't be so different that the boss and level feel separated in function. You can also have the boss use weapons/moves that won't be seen until the next level.
 
-![Thematic Consistency](https://github.com/GerardClotet/Boss-Design/blob/master/docs/ThematicConsistency.jpg)
+![Thematic Consistency](https://github.com/GerardClotet/Boss-Design/blob/master/docs/ThematicConsistency.jpg?raw=true)
 
 ### Emotionally Weight
 The goal to defeat bosses must fit in the thematic presented to the player. It can’t be just meet the boss and fight, there’s the need of some kind of background to make the fight unique and memorable, otherwise it’s just another regular enemy. 
@@ -134,7 +134,8 @@ The environment should be influenced by the fight or the boss personality so the
 
 Also the arena should have some elements to develop the fight like pillars to block attacks , stealth path to surprise the enemy, you name it. Those can be presented as clues and vulnerabilities. 
 Levels can be centered in a Boss when it’s a final level, so the whole level is designed specifically to the final battle. 
-![Arena](https://github.com/GerardClotet/Boss-Design/blob/master/docs/bossarena.jpg)
+
+![Arena](https://github.com/GerardClotet/Boss-Design/blob/master/docs/bossarena.jpg?raw=true)
 
 ## Boss themes
 Music is the key to immersion, any memorable boss-fight has a great theme behind. First of all you need to know the battle length to structure the music in phases with a crescendo to the fight climax. To fulfill the immersion the rhythm must mimic the gameplay. The music must reinforce the feeling that has been designed to this fight. The music should also fit with the environment presented; a gloomy environment won’t fit with Minecraft main theme. 
