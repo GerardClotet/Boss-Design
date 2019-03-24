@@ -44,7 +44,7 @@ As we talked about with variance in replayability, you never want the game to de
 
 #### Planning a Pattern:
 The type of game and audience you are designing for will determine the kind of bosses that make the most sense.
-If your game pillars is not combat or player skill-focused, then fixed patterns are. 
+If your game pillars are not combat or player skill-focused, then you should use fixed patterns. 
 If your game’s combat system is detailed enough and you want to give the player a challenge, then a random pattern is the best fit.
 
 
