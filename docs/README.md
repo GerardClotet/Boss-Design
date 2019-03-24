@@ -53,6 +53,9 @@ Value of Effort is the gameplay experience of that one's efforts during gameplay
 
 ### Goals
 Goals help directly players attention and efforts in a game.  Goal Indicator as a live bar, time to end or lives. Although it’s not a must, for example Cup-Head doesn’t use any goal indicator although the player can check the goal status through the boss phase.
+<p align="center">
+<img src="https://github.com/GerardClotet/Boss-Design/blob/master/docs/lifebar.jpg" width="600">
+</p> 
 
 ![LifeBar](https://github.com/GerardClotet/Boss-Design/blob/master/docs/lifebar.jpg)
 
