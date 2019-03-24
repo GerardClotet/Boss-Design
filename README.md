@@ -20,6 +20,7 @@ Fixed patterns means that the boss is designed around one pattern or a repeated 
 Once the player figures out the pattern, the boss fight is not challenging anymore and the boss become an enemy with more health, the tension stop increasing. 
 In boss design fixed patterns are the easiest way to design the enemy, although it limits the replayability of the game. When the player know the pattern the fight it’s reduced to wait the end of boss’s pattern, destroying the wall that differentiates normal enemy’s from bosses. 
 
+![Fixed Pattern](https://github.com/GerardClotet/Boss-Design/blob/master/docs/Fixed%20Pattern.png?raw=true)
 
 #### Random Pattern:
 Random Patterns means that the boss instead of using the same unchangeable patterns will choose it during the fight. Keep in mind that patterns are limited by developers, the move set is always the same what changes it’s his combination.
@@ -31,7 +32,7 @@ On the other side the combinations will be decided by the fight events and stats
 An example of the gameplay style conditioning is the amount of moves the player does during the fight. The game give the player the option to block or evade to defend himself from the boss. If the player abuse from one option the boss will use an attack to penalize the player, like extend the pattern to hit the player while his trying to evade or repeat the same attack to break his block.
 In random patterns the player is required to be more reactive and focused during the fight compared to fixed patterns. For the players random patterns are more challenging but they require a huge effort to design and balance.  As a player, you have so many attacks to deal with that you have to be consistently focused on the fight.
 
-![Tension chart](https://github.com/GerardClotet/Boss-Design/blob/master/docs/TensionChart.jpg?raw=true)
+
 
 #### Balancing random patterns
 Pattern for boss design does make things harder when it comes to balance. The difficulty of any random pattern boss comes down to the number of attack that the player must take into account, and how frequent the enemy will use them.
@@ -53,6 +54,8 @@ Value of Effort is the gameplay experience of that one's efforts during gameplay
 ### Goals
 Goals help directly players attention and efforts in a game.  Goal Indicator as a live bar, time to end or lives. Although it’s not a must, for example Cup-Head doesn’t use any goal indicator although the player can check the goal status through the boss phase.
 
+![LifeBar](https://github.com/GerardClotet/Boss-Design/blob/master/docs/lifebar.jpg)
+
 ### Varying Rule Sets
 Varying Rule Sets change in a specific boss fight to then back to the original ones. For example the player is immortal, to advance you have to die, magnify the abilities. The variation of the rules increases the boss feeling as a unique enemy.
 
@@ -73,15 +76,21 @@ Invulnerabilities are used to imbalance the game in case it is too easy for the 
 
 Classic JRPG like Final Fantasy or Dragon Quest abuse from invulnerabilities, the game  gives the player a wide range of possibilities during fights, debuffs like burned or confusion apart from the direct damage, so the player construct his gameplay strategy around this possibilities. The 90% of boss fights the boss is immune to any ability apart from direct damage,  the player realizes that despite all the possibilities there is only one to defeat the boss. This breaks the game mechanic and frustrates the player, which sees that in fact there’s only one way to defeat the boss. This bad design affect the replayability of the game and the value of effort after each fight. 
 
+![InvulnerabilityJRPG](https://github.com/GerardClotet/Boss-Design/blob/master/docs/Invulnerability.png)
+
 ### Tension
 The tension is the feeling of caring about the outcome of actions or events in a game without having full control over them. The tension is generated because the player has something to loose during the fight. Like the progress achieved in the game or  the resources earned. Tension can be increased by making gameplay actions more difficult to the players, perform actions quickly (stress the player) for example quick time events or temporary abilities. Repeated exposure to the same form of events or actions decreases the Tension they cause, it is related to the pattern set of the bosses a random pattern will produce more tension than the fixed one. The tension is also related to the value of effort, as the challenge increases the reward after the fight must increase otherwise the player will feel cheated. 
 
-###Penalties
+![Tension chart](https://github.com/GerardClotet/Boss-Design/blob/master/docs/TensionChart.jpg?raw=true)
+
+### Penalties
 Penalties are effects on the game state that are negative to players regarding their position, progress, or abilities. To maintain the tension during the fight the player have to know what he is facing if he loses so they have to be introduced since the beginning of the game. The target audience of the game will dictate the kind of penalties
 
 
 ### Thematic Consistency
 The boss must have a believable behavior, the key is transition. If a boss uses attacks completely unrelated to both the theme and enemies found earlier in the level, it will feel unattached (and so will the player). The boss esthetic must fit in the world that has been presented to the player, an exception of this are Easter Eggs bosses because those are presented to the player as an extra content out of the universe. The types of attacks don't necessarily have to mimic the same enemy types seen earlier in the level, but they shouldn't be so different that the boss and level feel separated in function. You can also have the boss use weapons/moves that won't be seen until the next level.
+
+![Thematic Consistency](https://github.com/GerardClotet/Boss-Design/blob/master/docs/ThematicConsistency.jpg)
 
 ### Emotionally Weight
 The goal to defeat bosses must fit in the thematic presented to the player. It can’t be just meet the boss and fight, there’s the need of some kind of background to make the fight unique and memorable, otherwise it’s just another regular enemy. 
@@ -124,6 +133,7 @@ The environment should be influenced by the fight or the boss personality so the
 
 Also the arena should have some elements to develop the fight like pillars to block attacks , stealth path to surprise the enemy, you name it. Those can be presented as clues and vulnerabilities. 
 Levels can be centered in a Boss when it’s a final level, so the whole level is designed specifically to the final battle. 
+![Arena](https://github.com/GerardClotet/Boss-Design/blob/master/docs/bossarena.jpg)
 
 ## Boss themes
 Music is the key to immersion, any memorable boss-fight has a great theme behind. First of all you need to know the battle length to structure the music in phases with a crescendo to the fight climax. To fulfill the immersion the rhythm must mimic the gameplay. The music must reinforce the feeling that has been designed to this fight. The music should also fit with the environment presented; a gloomy environment won’t fit with Minecraft main theme. 
@@ -155,43 +165,3 @@ https://www.vix.com/es/btg/gamer/64011/el-diseno-de-los-jefes-finales-el-proceso
 - [Music](https://www.gamasutra.com/blogs/HarryMack/20120413/168521/GettingMaking_Game_Music_that_Fits__Classic_Genre_Series__Boss_Music.php)
 -[Emotional Weight](http://game-wisdom.com/critical/3-boss-fight)
 
-## Welcome to GitHub Pages
-
-
-
-
-You can use the [editor on GitHub](https://github.com/GerardClotet/Boss-Design/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GerardClotet/Boss-Design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
