@@ -52,7 +52,7 @@ If your game’s combat system is detailed enough and you want to give the playe
 Value of Effort is the gameplay experience of that one's efforts during gameplay have value. Challenging gameplay is a must if we want the player feels he deserve the reward after the fight. The most common way to achieve this experience is using Setback Penalties during the boss fight. For example if the player passes through the middle of the fight but dies, give him the chance to start from the beginning or the checkpoint but penalize the player with a lower reward if he has choosed the checkpoint. Lastly the player always has to administer the coup de grace to feel the victory as his own.
 
 ### Goals
-Goals help directly players attention and efforts in a game.  Goal Indicator as a live bar, time to end or lives. Although it’s not a must, for example Cup-Head doesn’t use any goal indicator although the player can check the goal status through the boss phase. 
+Goals help directly players attention and efforts in a game.  Goal Indicator as a live bar, time to end or lives. Although it’s not a must, for example Cup-Head doesn’t use a real-time goal indicator despite the player can check the goal status through the boss phases or when he dies. 
 
 ![LifeBar](https://github.com/GerardClotet/Boss-Design/blob/master/docs/lifebar.jpg?raw=true)
 
