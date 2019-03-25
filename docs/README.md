@@ -105,7 +105,7 @@ At what point of the game is your boss? If it’s at the beginning you want to m
 Battle length should last a fraction of the previous level, I repeat there is no boss bible but the ideal time would be between a quarter and a fifth length of the level. Battle length is really important to maintain tension and not saturate the player. The time can be easily modulated by the boss health or the damage done by the player. It is really important to have the time measured to fit the music properly. The time measure can only be achieved with a lot of playtesting.
 
 ### Boss Checklist
-It’s important to have this document, due to you won’t be working alone in the boss design and develop all the team workers involved in this field should know exactly what you have in mind. It will also end up as a reference bible for the rest of the team and it can’t solve many issues and save lot of time.
+It’s important to have this document, due to you won’t be working alone in the boss design and develop, all the team workers involved in this field should know exactly what you have in mind. It will also end up as a reference bible for the rest of the team and it can solve many issues and save lot of time.
 
 - Boss name, image and short description 
 - Level description of the environment.
